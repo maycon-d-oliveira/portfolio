@@ -10,8 +10,8 @@ const CATEGORY_ORDER: ProjectCategory[] = ['BI', 'Desenvolvimento', 'Infraestrut
 
 const PROJECTS: ProjectEntry[] = [
   {
-    title: 'starbucks-clone',
-    description: 'Clone do site do Starbucks.',
+    title: 'Starbucks-clone',
+    description: 'Clone do site do Starbucks. Projeto desenvolvido na graduação de Analise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo',
     repoUrl: 'https://github.com/maycon-d-oliveira/starbucks-clone',
     category: 'Desenvolvimento',
   },
@@ -20,7 +20,7 @@ const PROJECTS: ProjectEntry[] = [
     description:
       'Aplicação web para controle de aparelhos, chips, estoque, devoluções, descarte e manutenções. Desenvolvida com Flask, compatível com SQLite e PostgreSQL.',
     repoUrl: 'https://github.com/maycon-d-oliveira/Inventario-ti',
-    category: 'Infraestrutura de TI',
+    category: 'Desenvolvimento',
   },
 ];
 
